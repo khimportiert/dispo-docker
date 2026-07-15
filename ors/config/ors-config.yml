@@ -29,7 +29,7 @@ ors:
       cache_clear: false
     profile_default:
       build:
-        source_file: /home/ors/files/germany-04-2026.osm.pbf
+        source_file: /home/ors/files/germany.osm.pbf
         elevation: false
         instructions: false
         optimize: true
